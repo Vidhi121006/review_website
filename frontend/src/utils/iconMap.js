@@ -1,0 +1,36 @@
+
+import {
+  faLaptop,
+  faUtensils,
+  faPlane,
+  faPuzzlePiece,
+  faBook,
+  faShirt,
+  faDumbbell,
+  faGraduationCap,
+  faGamepad,
+  faHeartbeat,
+  faFilm,
+  faMusic,
+  faBlender,
+  faCar,
+  faSpa,
+} from "@fortawesome/free-solid-svg-icons";
+
+export const iconMap = {
+  faLaptop,
+  faUtensils,
+  faPlane,
+  faPuzzlePiece,
+  faBook,
+  faShirt,
+  faDumbbell,
+  faGraduationCap,
+  faGamepad,
+  faHeartbeat,
+  faFilm,
+  faMusic,
+  faBlender,
+  faCar,
+  faSpa,
+};
